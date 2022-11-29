@@ -1,0 +1,110 @@
+[
+  {
+    "name": "The Carla",
+    "description": "A simple black polo",
+    "color": "black",
+    "style": "blouse",
+    "popular": 0,
+    "price": 25.99,
+    "image": "images/black-polo.jpg"
+  },
+  {
+    "name": "The Monique",
+    "description": "Our streamlined spring look for the workplace",
+    "color": "lavender",
+    "style": "blouse",
+    "popular": 1,
+    "price": 37.99,
+    "image": "images/lavender-button-down.jpg"
+  },
+  {
+    "name": "The Lana",
+    "description": "A tropical breeze in a flowing blouse",
+    "color": "floral",
+    "style": "blouse",
+    "popular": 3,
+    "price": 36.99,
+    "image": "images/palm-blouse.jpg"
+  },
+  {
+    "name": "The Francis",
+    "description": "A look perfect for a secret garden",
+    "color": "floral",
+    "style": "blouse",
+    "popular": 4,
+    "price": 36.99,
+    "image": "images/pink-floral-button-down.jpg"
+  },
+  {
+    "name": "The Heather",
+    "description": "Refined, elegant, the perfect shirt for life",
+    "color": "green",
+    "style": "tunic",
+    "popular": 5,
+    "price": 47.99,
+    "image": "images/long-tunic-green.jpg"
+  },
+  {
+    "name": "The Maria",
+    "description": "A true classic. Versatile, and effortless",
+    "color": "blue",
+    "style": "blouse",
+    "popular": 11,
+    "price": 37.99,
+    "image": "images/blue-button-down.jpg"
+  },
+  { 
+    "name": "The Wanda",
+    "description": "Simple yet styled stripes",
+    "color": "white",
+    "style": "blouse",
+    "popular": 6,
+    "price": 36.99,
+    "image": "images/white-striped-button-down.jpg"
+  },
+  {
+    "name": "The Myrtle",
+    "description": "A delicate design perfect for all occasions",
+    "color": "floral",
+    "style": "blouse",
+    "popular": 7,
+    "price": 35.99,
+    "image": "images/lavender-floral-button-down.jpg"
+  },
+  {
+    "name": "The Maya",
+    "description": "The tunic you'll never want to take off",
+    "color": "blue",
+    "style": "tunic",
+    "popular": 8,
+    "price": 48.99,
+    "image": "images/long-tunic-blue.jpg"
+  },
+  {
+    "name": "The Claire",
+    "description": "Breathe in the spring air in this gorgeous tank",
+    "color": "floral",
+    "style": "tank",
+    "popular": 9,
+    "price": 26.99,
+    "image": "images/floral-tank.jpg"
+  },
+  {
+    "name": "The Ria",
+    "description": "The jacket you'll want on your night out",
+    "color": "white",
+    "style": "jacket",
+    "popular": 10,
+    "price": 57.99,
+    "image": "images/jacket.jpg"
+  },
+  {
+    "name": "The Nicole",
+    "description": "A clean, classic shirtdress",
+    "color": "blue",
+    "style": "dress",
+    "popular": 12,
+    "price": 77.99,
+    "image": "images/blue-shirtdress.jpg"
+  }
+]

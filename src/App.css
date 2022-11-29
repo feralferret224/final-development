@@ -1,32 +1,34 @@
-.App {
+.root {
+  font-family: Georgia;
+}
+
+.Header {
+  padding: 2rem;
+  padding-bottom: 0rem;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.PageGrid {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  margin-right: 35px;
+  align-items: start;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.SideBar {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 15px 35px 0 50px;
+  padding: 25px 20px 0;
+  /* border: 2px solid #d1a480; */
+  /* border-radius: 10px; */
+  /* box-shadow: 0 1px 1px #d1a480; */
 }
 
-.App-link {
-  color: #61dafb;
-}
+/* .Cart {
+  border-radius: 10px;
+  background-color: #f6d0b199;
+} */
 
 @keyframes App-logo-spin {
   from {
