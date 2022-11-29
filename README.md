@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-https://feralferret224.github.io/development/
+https://feralferret224.github.io/final-development/
 
 ### Goal and Value of the Application
 This is a simple application used to buy clothes from the retailer Fashion Haus. Users can sort, filter, and add/remove items from their cart. They can filter by style and color, and they can sort by rating and price.
