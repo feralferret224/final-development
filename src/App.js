@@ -340,10 +340,9 @@ function App() {
                 ></CartItem>;}
               })
             }
-            
             <br></br>
             <h4>Price: {(price).toFixed(2)}</h4>
-            <Button variant="contained">Checkout</Button>
+            <Button variant="contained" onClick={()=>{setCurrCart({}); setPrice(0)}}>Checkout</Button>
           </div>
         </div>
         <StoreGrid display={currDisplay} cart={currCart} add={addToCart} remove={removeFromCart}></StoreGrid>
